@@ -46,7 +46,7 @@ export default function LookingForBoard() {
             Looking For Board
           </h2>
           <p className="text-xl text-secondary-600 max-w-3xl mx-auto">
-            Find your next collaboration opportunity or post what you're looking for. 
+            Find your next collaboration opportunity or post what you&apos;re looking for. 
             Connect with builders who have the skills you need.
           </p>
         </div>
@@ -59,7 +59,7 @@ export default function LookingForBoard() {
               Have a Project That Needs Help?
             </h3>
             <p className="text-lg text-secondary-600 mb-6 max-w-2xl mx-auto">
-              Post a project brief and find the perfect collaborators. Include what you're building, 
+              Post a project brief and find the perfect collaborators. Include what you&apos;re building, 
               skills needed, and location preferences.
             </p>
             <button className="btn-primary text-lg px-8 py-3 flex items-center mx-auto space-x-2">

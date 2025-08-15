@@ -13,7 +13,7 @@ export default function Hero() {
           
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-secondary-600 mb-8 max-w-3xl mx-auto">
-            A community-driven platform for makers, founders, and creatives to showcase what they're building, 
+            A community-driven platform for makers, founders, and creatives to showcase what they&apos;re building, 
             exchange advice, and find collaborators — locally or globally.
           </p>
 

@@ -87,7 +87,7 @@ export default function Features() {
             </h3>
             <p className="text-lg text-secondary-600 max-w-4xl mx-auto mb-6">
               Unlike portfolio platforms or general social networks, Builder is community-first and collaboration-focused. 
-              It not only celebrates what you've built but actively helps you find who you need to build with — 
+              It not only celebrates what you&apos;ve built but actively helps you find who you need to build with — 
               locally or globally — while keeping all your progress updates threaded neatly into your original project post for easy storytelling.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

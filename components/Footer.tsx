@@ -48,7 +48,7 @@ export default function Footer() {
             </h3>
             <p className="text-secondary-300 mb-6 max-w-xs">
               Build Together. Build Better. A community-driven platform for makers, 
-              founders, and creatives to showcase what they're building.
+              founders, and creatives to showcase what they&apos;re building.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social) => (

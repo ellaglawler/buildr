@@ -220,7 +220,7 @@ export default function CommunityTools() {
                       <span className="font-medium">{endorsement.endorsed}</span>
                     </div>
                     <p className="text-secondary-700 italic">
-                      "{endorsement.message}"
+                      &ldquo;{endorsement.message}&rdquo;
                     </p>
                   </div>
                 </div>

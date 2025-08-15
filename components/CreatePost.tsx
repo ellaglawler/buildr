@@ -133,6 +133,7 @@ export default function CreatePost({ onClose }: CreatePostProps) {
               Add Media
             </label>
             <div className="border-2 border-dashed border-secondary-300 rounded-lg p-6 text-center hover:border-primary-400 transition-colors cursor-pointer">
+              {/* eslint-disable-next-line jsx-a11y/alt-text */}
               <Image className="h-12 w-12 text-secondary-400 mx-auto mb-2" />
               <p className="text-secondary-600">Click to upload images or drag and drop</p>
               <p className="text-sm text-secondary-500">PNG, JPG up to 10MB</p>

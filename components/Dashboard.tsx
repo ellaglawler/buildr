@@ -163,7 +163,7 @@ export default function Dashboard() {
                     Welcome back, {user.name}! 👋
                   </h2>
                   <p className="text-secondary-600">
-                    Ready to build something amazing today? Here's what's happening in your world.
+                    Ready to build something amazing today? Here&apos;s what&apos;s happening in your world.
                   </p>
                 </div>
 
